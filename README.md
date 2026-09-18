@@ -1,6 +1,6 @@
 # 1D Idealized Probabilistic Fields
 
-**Zenodo** : [https://doi.org/10.5281/zenodo.14982272](https://doi.org/10.5281/zenodo.14982272)
+**Zenodo** : [https://doi.org/10.5281/zenodo.22836422](https://doi.org/10.5281/zenodo.22836422)
 
 Data and code of "A dataset of one-dimensional idealized probabilistic fields" by G. Skok and R. Pic ([arxiv:]())
 
